@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SpotiGemini+",
+  "description": "A premium music streaming experience powered by AI, featuring intelligent playlist generation, mood-based discovery, and a stunning dark-mode interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
